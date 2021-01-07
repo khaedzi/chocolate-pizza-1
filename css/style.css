@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+header li {
+    float: left;
+    display: inline;
+    padding: 0 0px 0 6px;
+}
+header #logo{
+    float: left;
+    position: absolute;
+}
+#icons {
+    float: right;
+    margin-top: 10px;
+}
+#title{
+    font-family: 'Redressed', cursive;
+    margin-bottom: 0;
+}
+#image1{
+    position: relative;
+}
+#title1{
+    position: relative;
+    top: -79px;
+    left: 49px;
+}
+#title1 p {
+    margin-top: 0;
+}
+header {
+    margin-top: 47px;
+}
+
+section #repeat {
+    background-image: url('https://github.com/LTUC/amman-201d12/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true');
+    background-repeat: repeat;
+    height: 20px;
+}
+
+#print-icon{
+    float: right;
+    display: inline-block;
+}
+#print-icon img, p {
+    display: inline-block;
+}
+#chocolate {
+    display: inline-block;
+}
+#chocolate p {
+margin-top: 0;
+
+}
+#chocolate h1{
+    margin-bottom: 0;
+}
+form{
+    height: 240px;
+background-image: url("https://github.com/LTUC/amman-201d12/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+
+}
+input{
+    display: inline-block;
+    margin-bottom:30px ;
+}
